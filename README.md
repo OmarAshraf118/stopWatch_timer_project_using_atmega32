@@ -56,4 +56,4 @@ By exploring this project, you can gain insights into:
 ## Getting Started
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/timer-atmega32.git
+   git clone https://github.com/OmarAshraf118/stopWatch_timer_project_using_atmega32.git
